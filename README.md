@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Catalin</h1>
 <h3 align="center">I'm an enthusiastic developer who is well-versed in both front-end and back-end development. I have a passion for creating powerful business software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ascii404&label=Profile%20views&color=0e75b6&style=flat" alt="ascii404" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ascii404&label=Profile%20views%20(excluding%20my%20own)&color=0e75b6&style=flat&percnt;5Bexclude_self=true&percnt;5D" alt="ascii404" />
+</p>
+
 
 - 🔭 I’m currently working on [Bank website](https://github.com/ASCII404/Bank-ASP.NET)
 

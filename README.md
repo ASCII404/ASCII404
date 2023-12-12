@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Catalin</h1>
-<h3 align="center">I'm an enthusiastic person who is well-versed in both front-end and back-end development. I have a passion for creating powerful business software solutions</h3>
+<h3 align="center">I'm an enthusiastic software developer with a passion for creating business-focused solutions, driven by both technical and business acumen.</h3>
 
 - 🌱 I’m currently learning **T-SQL, Python**
 

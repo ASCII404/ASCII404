@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Catalin</h1>
 <h3 align="center">I'm an enthusiastic software developer with a passion for creating business-focused solutions, driven by both technical and business acumen.</h3>
 
-- 🌱 I’m currently learning **T-SQL, Python**
+- 🌱 I’m currently learning **Python and C#**
 
 - 📫 How to reach me **catalincristian66@gmail.com**
 

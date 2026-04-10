@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Catalin</h1>
-<h3 align="center">I enjoy arguing with the AI and realising that we're doomed.</h3>
+<h3 align="center">I pick fights with language models and then sit with what I've learned. I do not recommend this.</h3>
 
 - 📫 How to reach me **catalincristian66@gmail.com**
 
